@@ -1,0 +1,16 @@
+'use strict';
+
+const PORT = 8080;
+const URL_FB = 'https://graph.facebook.com/v11.0/act_';
+const ID_TARGETING_SEARCH = 545960216528396;
+const ACCESS_TOKEN = 'EAADWlyyAyIcBAFFCVgysjWC5HADApugJnRyQJ8nxhDBY87fo27IZBaztFQcVSZBgXZBCW1ZCGGYg7W4TjFGmewj8JJtm1Ju1KXOYU9utguTrMqDCHdCRWYpI5LrK9QQkyiCs3RvaZAkag4nu98bjZANbSW7WE2fpsO8NVIwfIPdmZAmM1tuF5WrF7JWUgIXK6sZD';
+
+
+
+module.exports = {
+    PORT,
+    URL_FB,
+    ID_TARGETING_SEARCH,
+    ACCESS_TOKEN,
+
+}
